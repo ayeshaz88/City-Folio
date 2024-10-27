@@ -1,0 +1,22 @@
+Doctor summary (to see all details, run flutter doctor -v):
+[√] Flutter (Channel stable, 3.19.6, on Microsoft Windows [Version 10.0.22631.3880], locale en-US)
+[√] Windows Version (Installed version of Windows is version 10 or higher)
+[X] Android toolchain - develop for Android devices
+    X Unable to locate Android SDK.
+      Install Android Studio from: https://developer.android.com/studio/index.html
+      On first launch it will assist you in installing the Android SDK components.
+      (or visit https://flutter.dev/docs/get-started/install/windows#android-setup for detailed instructions).
+      If the Android SDK has been installed to a custom location, please use
+      `flutter config --android-sdk` to update to that location.
+
+[√] Chrome - develop for the web
+[√] Visual Studio - develop Windows apps (Visual Studio Community 2022 17.10.5)
+[√] Android Studio (version 2023.3)
+[√] VS Code (version 1.92.0)
+[√] Connected device (3 available)
+[!] Network resources
+    X A cryptographic error occurred while checking "https://cocoapods.org/": Connection terminated during handshake
+      You may be experiencing a man-in-the-middle attack, your network may be compromised, or you may have malware installed on your computer.
+    X An HTTP error occurred while checking "https://github.com/": Connection closed before full header was received
+
+! Doctor found issues in 2 categories.
